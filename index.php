@@ -1,33 +1,27 @@
-<!DOCTYPE html>
-<html>
+
 <head>
-	<title>Hacked Kecot No Defense</title>
-<link rel="icon" type="image/x-icon" href="https://lh6.googleusercontent.com/proxy/E-jATipSPFRJh8o0W_usPRUKd99CtM6AgSp8_MDKuuNMqnVugDQXbX4eK1--Jj1yN3WDA3DSOJu18lR2tnKDz1FK3qG59mEn=s0-d">
-	<meta charset="utf-8">
-	<meta name="keywords" content="Hacked By Kecot">
-	<meta name="description" content="Hacked Hacked By Kecot | Kondom Pecah">
-<style>
-	@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
-	body{
-		font-family: 'Acme';
-		background-color: black;
-		color: white;
-		text-align: center;
-		margin-top: 8%;
-		width: auto;
-	}
-	h1{
-		margin-top: 0%;
-		font-size: 2.8vw;
-	}
-</style>
+
+<title>Hacked by ./KecotNoDefense</title>
+<link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="description" content="Two Brothers">
+<meta name="keywords" content="Two Brothers">
+<meta http-equiv="cache-control" content="index,cache">
+<meta http-equiv="pragma" content="index,cache">
+<meta name="theme-color" content="black">
 </head>
-<body>
-	<img src="https://i.ibb.co/WzQD6TH/girl-hentai-anime.jpg"" width="600">
-	<h1>Hacked By Kecot MWehehehehhehe</h1>
-	<i>
-	<font color="red" size="4">i hate my life</font><br><br><br>
-  	<font color="white" size="4">Thanks To :<br>Blackbull  - KondomPecah</font>
-	<br>
-	</i>
-</html>
+<center>
+<body bgcolor="black">
+<div style="height: auto; min-height: 100%;">
+<div style="text-align: center; width:800px; margin-left: -400px; position: absolute; top: 30%; left: 50%;">
+<i><b>
+<img src="https://i.ibb.co/D96NJL6/images-27.jpg" width="300" height="310">
+<br></font><font color="lime" size="6" face="iceland">
+[+] -- Hacked by ./KecotNoDefense -- [+]<br><br></font>
+<font size="5" face="Inconsolata" color="gold"> pinjam dulu seratus min mwehehehehehe 
+<br></font>
+
+<font face="Inconsolata" size="5" color="red"><br><br>
+<br>We Are: Kecot Cyber Team 
+ </font>
+<br><br><br><br>
